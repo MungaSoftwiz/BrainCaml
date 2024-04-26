@@ -1,0 +1,4 @@
+(executable
+ (public_name BrainCaml)
+ (name main)
+ (libraries BrainCaml))

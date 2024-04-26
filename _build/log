@@ -1,0 +1,6 @@
+# dune init project BrainCaml
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/munga/.cache/dune/db
+# Workspace root: /home/munga/BrainCaml
+# Auto-detected concurrency: 4
