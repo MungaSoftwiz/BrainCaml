@@ -1,0 +1,15 @@
+opam-version: "2.0"
+name: "braincaml"
+version: "0.1.0"
+maintainer: "Boniface Munga <mwachilumobm@gmail.com>"
+license: ""
+homepage: "https://github.com/MungaSoftwiz/BrainCaml"
+dev-repo: "git+https://github.com/MungaSoftwiz/BrainCaml.git"
+authors: ["Boniface Munga"]
+description: "An OCaml-based interpreter for the Brainfuck esolang"
+tags: ["ocaml" "brainfuck" "interpreter"]
+depends: [
+  "ocaml"
+  "dune"
+]
+
