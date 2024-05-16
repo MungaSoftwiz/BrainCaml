@@ -5,15 +5,13 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github MungaSoftwiz/BrainCaml))
 
 (authors "Boniface Munga")
 
 (maintainers "Boniface Munga")
 
 (license LICENSE)
-
-(documentation https://url/to/documentation)
 
 (package
  (name BrainCaml)
