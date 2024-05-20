@@ -1,2 +1,3 @@
 (library
- (name BrainCaml))
+ (name braincaml)
+ (public_name BrainCaml))

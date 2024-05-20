@@ -1,4 +1,4 @@
 (executable
  (name main_brain)
  (public_name main)
- (libraries compiler-libs.common))
+ (libraries compiler-libs.common braincaml))
