@@ -1,6 +1,6 @@
 (* bin/main.ml *)
 
-open BrainCaml
+open Braincaml
 
 let print_usage (filename : string) : unit =
   let usage_msg = "Usage: " ^ filename ^ " <filename>" in
